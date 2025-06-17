@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VarunReddyT&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VarunReddyT&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VarunReddyT&theme=radical&hide_border=true" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunReddyT&layout=compact&theme=radical&hide_border=true&langs_count=10" />
