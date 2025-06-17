@@ -70,7 +70,6 @@
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VarunReddyT&theme=radical&hide_border=true" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunReddyT&layout=compact&theme=radical&hide_border=true&langs_count=10" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=VarunReddyT&theme=radical&hide_border=true" />
 
 </div>
 
@@ -217,7 +216,7 @@
 <div align="center">
 
 ### 🔥 Contribution Heatmap
-<img src="https://ghchart.rshah.org/409ba5/VarunReddyT" width="100%" />
+<img src="https://ghchart.rshah.org/008000/VarunReddyT" width="100%" />
 
 ### 📅 Commit Timeline
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VarunReddyT&theme=radical" width="100%" />
