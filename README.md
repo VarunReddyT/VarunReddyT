@@ -10,8 +10,6 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
 - 🎓 **Computer Science Engineering** student at **KMIT, Hyderabad**
 - 💼 Currently working on **Tech for Dyslexia and Autism**
 - 🌱 Learning **Advanced AI/ML** and **Cloud Architecture**
@@ -19,8 +17,6 @@
 - 💬 Ask me about **Web Dev, DevOps, APP Dev**
 - 📫 Reach me at **tvarun2014@gmail.com**
 - ⚡ Fun fact: **I debug with console.log() and I'm proud of it!**
-
-<br clear="right"/>
 
 ---
 
@@ -71,11 +67,6 @@
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunReddyT&layout=compact&theme=radical&hide_border=true&langs_count=10" />
 
-</div>
-
-### 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VarunReddyT&bg_color=0d1117&color=708090&line=24292e&point=ff6b6b&area=true&hide_border=true&theme=react-dark" width="100%"/>
 </div>
 
 ### 🏆 GitHub Trophies
@@ -211,20 +202,6 @@
 
 ---
 
-## 📈 Detailed Analytics
-
-<div align="center">
-
-### 🔥 Contribution Heatmap
-<img src="https://ghchart.rshah.org/008000/VarunReddyT" width="100%" />
-
-### 📅 Commit Timeline
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VarunReddyT&theme=radical" width="100%" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -254,8 +231,6 @@
 
 <div align="center">
 
-<!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/> -->
-
 **"Code is like humor. When you have to explain it, it's bad." - Cory House**
 </div>
 
@@ -272,12 +247,8 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 **💻 "Code is poetry written in logic"**
 
 *Made with ❤️ and lots of ☕ by Varun Reddy*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
