@@ -22,35 +22,20 @@
 
 <div align="center">
 
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,dart,c" />
-</p>
-
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,materialui" />
-</p>
-
-### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,nginx" />
-</p>
-
-### Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,react" />
-</p>
-
-### Databases & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,vercel,docker,kubernetes" />
-</p>
-
-### Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,bash" />
-</p>
+<table>
+  <tr>
+    <td align="center"><strong>Languages</strong><br/><img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,dart,c" /></td>
+    <td align="center"><strong>Frontend</strong><br/><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,materialui" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend</strong><br/><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,nginx" /></td>
+    <td align="center"><strong>Mobile</strong><br/><img src="https://skillicons.dev/icons?i=flutter,react" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Cloud & DB</strong><br/><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,vercel,docker,kubernetes" /></td>
+    <td align="center"><strong>Tools</strong><br/><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,bash" /></td>
+  </tr>
+</table>
 
 </div>
 
