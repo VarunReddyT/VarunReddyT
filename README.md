@@ -29,12 +29,12 @@
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,sass,materialui" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,materialui" />
 </p>
 
 ### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,graphql,nginx" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,nginx" />
 </p>
 
 ### Mobile Development
@@ -44,7 +44,7 @@
 
 ### Databases & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,aws,vercel,netlify,docker" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,vercel,docker,kubernetes" />
 </p>
 
 ### Tools & Technologies
