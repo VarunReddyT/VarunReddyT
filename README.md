@@ -76,29 +76,3 @@
 </div>
 
 ---
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-**"Code is like humor. When you have to explain it, it's bad." - Cory House**
-</div>
-
----
-
-## 🎮 Fun Zone
-
-### ☕ Coffee Counter
-<img src="https://img.shields.io/badge/Coffee%20Consumed-∞%20cups-brown?style=for-the-badge&logo=coffee&logoColor=white" alt="Coffee Counter"/>
-
-</div>
-
----
-
-<div align="center">
-
-**💻 "Code is poetry written in logic"**
-
-*Made with ❤️ and lots of ☕ by Varun Reddy*
-
-</div>
